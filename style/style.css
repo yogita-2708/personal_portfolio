@@ -1,0 +1,48 @@
+    .col-sm-12 img {
+      width: 100%;
+      height: auto;
+    }
+
+    #my-img {
+      width: 100%;
+      height: auto;
+    }
+    #my-image {
+      width: 100%;
+      height: auto;
+    }
+    #academicinfo {
+      max-width: 50%;
+    }
+    #projectinfo {
+      max-width: 50%;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        font-size: 55%;
+      }
+      #my-image {
+        display: none;
+      }
+      .intro {
+        text-align: center;
+      }
+      .info {
+        text-align: justify;
+      }
+      #my-img {
+        margin-top: -20px;
+        margin-bottom: 15px;
+      }
+      .bi {
+        margin-right: 4px;
+      }
+      #academicinfo {
+        max-width: 100%;
+      }
+      #projectinfo {
+        max-width: 100%;
+      }
+    } 
+    
