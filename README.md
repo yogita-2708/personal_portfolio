@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-
+![Portfolio Screenshot](Screenshot/output-1.jpg)
 
 ## Overview
 
